@@ -1,4 +1,4 @@
-# Pi_Pico
+# Pi_Pico_Projects
 
 大家一起來玩 Raspberry Pi Pico吧！ 享受這小家伙帶給大家的樂趣。
 
