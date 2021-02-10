@@ -4,7 +4,7 @@ ssda327_i2c.py by OmniXRI Jack 11 Feb. 2021
 OLED MicroPython Driver for Raspberry Pi Pico,
 128x128 pixel, 4bit (16) Gray Level, I2C Interface.
 
-https://github.com/OmniXRI/Pi_Pico
+https://github.com/OmniXRI/Pi_Pico_OLED_SSD1327_I2C
 '''
 
 from micropython import const # 從MicroPython中導入常數設定類別
