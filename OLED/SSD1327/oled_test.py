@@ -18,7 +18,7 @@ Pb1 press, LED1 On, OLED display 'L Press : on'
 Pb2 press, LED2 On, OLED display 'R Press : on'
 SVR1 adjust, LED display 'ADC Volt : x.xxx'
 
-https://github.com/OmniXRI/Pi_Pico
+https://github.com/OmniXRI/Pi_Pico_OLED_SSD1327_I2C
 '''
 
 from machine import I2C, Pin, ADC   # 從machine中導入I2C, Pin, ADC類別
