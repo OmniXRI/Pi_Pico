@@ -7,3 +7,5 @@
 以下電路是本實驗參考之電路接線示意圖，主要提供二組LED輸出，二組按鍵輸入，一組半可變電阻供類比信號輸及一個I2C介面128x128像素的灰階OLED(SSD1327驅動晶片)顯示器。
 
 <img src="https://github.com/OmniXRI/Pi_Pico/blob/main/Images/Pi%20Pico%20Circuit.jpg" width="800px" /> 
+
+更多教學文章可參考 https://github.com/OmniXRI/Pi_Pico_OLED_SSD1327_I2C/wiki
